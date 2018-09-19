@@ -6,6 +6,6 @@
 - sweet dogies photos,
 - universal libraries,
 - usefull functions,
-- etc.
+- etc...
 
 ######
